@@ -1,0 +1,15 @@
+{
+  "name": "web3test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "web3": "^1.5.3"
+  }
+}
